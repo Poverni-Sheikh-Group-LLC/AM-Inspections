@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: 'AM-Inspections' # Replaced with my actual Azure app name
+  AZURE_WEBAPP_NAME: 'AM-Inspections' # Replaced with actual Azure app name
 
 jobs:
   deploy:
